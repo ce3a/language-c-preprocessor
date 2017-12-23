@@ -1,0 +1,17 @@
+{
+  "name": "language-c-preprocessor",
+  "version": "0.0.0",
+  "description": "Basic C Preprocessor support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ce3a/language-c-preprocessor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ce3a/language-c-preprocessor/issues"
+  },
+  "license": "MIT"
+}
